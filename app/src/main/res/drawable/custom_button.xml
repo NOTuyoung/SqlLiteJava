@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:state_pressed="false">
+
+        <layer-list>
+
+
+            <item>
+                <shape android:shape="rectangle">
+
+                    <size android:width="200dp" android:height="200dp"/>
+                    <corners android:radius="100dp" />
+                    <solid android:color="#00BFFF" />
+                </shape>
+            </item>
+
+
+            <item android:gravity="center">
+                <shape android:shape="rectangle">
+                    <size
+                        android:height="3dp"
+                        android:width="30dp"/>
+                    <solid android:color="#FFFFFF"/>
+                </shape>
+            </item>
+
+            <item android:gravity="center">
+                <rotate
+                    android:fromDegrees="90">
+                    <shape android:shape="rectangle">
+                        <size
+                            android:height="3dp"
+                            android:width="30dp"/>
+                        <solid android:color="#FFFFFF"/>
+                    </shape>
+                </rotate>
+            </item>
+
+        </layer-list>
+
+
+
+    </item>
+
+    <item android:state_pressed="true">
+
+        <layer-list>
+
+
+            <item>
+                <shape android:shape="rectangle">
+
+                    <size android:width="200dp" android:height="200dp"/>
+                    <corners android:radius="100dp" />
+                    <solid android:color="#00FFFF" />
+                </shape>
+            </item>
+
+
+            <item android:gravity="center">
+                <shape android:shape="rectangle">
+                    <size
+                        android:height="3dp"
+                        android:width="30dp"/>
+                    <solid android:color="#FFFFFF"/>
+                </shape>
+            </item>
+
+            <item android:gravity="center">
+                <rotate
+                    android:fromDegrees="90">
+                    <shape android:shape="rectangle">
+                        <size
+                            android:height="3dp"
+                            android:width="30dp"/>
+                        <solid android:color="#FFFFFF"/>
+                    </shape>
+                </rotate>
+            </item>
+
+        </layer-list>
+
+
+
+    </item>
+
+
+</selector>

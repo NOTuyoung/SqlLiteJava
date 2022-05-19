@@ -3,6 +3,57 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/drawable/green_button.xml" value="0.1905" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/drawable/states_button.xml" value="0.224" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_end_of_learning.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_main.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_modules_append.xml" value="0.2328125" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_modules_list.xml" value="0.23385416666666667" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_start_of_learning.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_word_info.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_word_list_upd.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_words_append.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_words_learning.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/activity_words_list.xml" value="0.25" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/item_main.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/layout/test.xml" value="0.2441123188405797" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Andorid/MobDevProject/app/src/main/res/menu/words_list_menu.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_end_of_learning.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_module_list.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_start_of_learning.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_word_append.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_word_edit.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_word_info.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_word_learning.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/activity_word_list.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/layout/item_list.xml" value="0.2328125" />
+        <entry key="..\:/EasyLearn/app/src/main/res/menu/menu_recycle_select.xml" value="0.14895833333333333" />
+        <entry key="..\:/MobDevProject/app/src/main/res/drawable/custom_button.xml" value="0.1275" />
+        <entry key="..\:/MobDevProject/app/src/main/res/layout/activity_word_list.xml" value="0.11820652173913043" />
+        <entry key="..\:/MobDevProject/app/src/main/res/layout/item_list.xml" value="0.15" />
+        <entry key="..\:/MobDevProject/app/src/main/res/layout/item_main.xml" value="0.11820652173913043" />
+        <entry key="..\:/MobDevProject/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/MobDevProject/app/src/main/res/menu/menu_recycle_select.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Tensai/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/drawable/new_progress_bar.xml" value="0.2965" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/layout/activity_end_of_learning.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/layout/activity_start_of_learning.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/layout/activity_word_info.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/layout/activity_words_append.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/layout/activity_words_learning.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Tensai/Documents/Coding/AndroidStudioProjects/MobDevProject/app/src/main/res/layout/activity_words_list.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_end_of_learning.xml" value="0.2375" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_modules_list.xml" value="0.22" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_start_of_learning.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_word_info.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_words_append.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_words_learning.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/layout/activity_words_list.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/menu/main_menu.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/lagut/Desktop/MobDevProject/app/src/main/res/menu/words_list_menu.xml" value="0.2375" />
         <entry key="..\:/Users/lagut/Desktop/SqlLiteJava/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/lagut/Desktop/SqlLiteJava/app/src/main/res/layout/activity_word_info.xml" value="0.3509963768115942" />
         <entry key="..\:/Users/lagut/Desktop/SqlLiteJava/app/src/main/res/layout/activity_words_append.xml" value="0.25" />

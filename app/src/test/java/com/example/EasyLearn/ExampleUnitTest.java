@@ -1,4 +1,4 @@
-package com.example.sqllitejava;
+package com.example.EasyLearn;
 
 import org.junit.Test;
 

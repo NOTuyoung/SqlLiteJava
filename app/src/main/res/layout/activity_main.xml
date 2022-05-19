@@ -14,24 +14,35 @@
         android:layout_height="wrap_content">
 
         <Button
-            android:id="@+id/button"
-            android:layout_width="330dp"
-            android:layout_height="58dp"
-            android:layout_marginStart="36dp"
-            android:layout_marginTop="40dp"
-            android:onClick="onClickWordsAppend"
-            android:text="Добавить слово"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
-        <Button
             android:id="@+id/button2"
             android:layout_width="330dp"
             android:layout_height="58dp"
             android:layout_marginStart="36dp"
-            android:layout_marginTop="116dp"
+            android:layout_marginTop="244dp"
             android:onClick="onClickWordsList"
             android:text="Список слов"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="330dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="44dp"
+            android:onClick="onClickWordsLearning"
+            android:text="Учить слова"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="330dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="144dp"
+            android:onClick="onClickModulesList"
+            android:text="Модули"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>

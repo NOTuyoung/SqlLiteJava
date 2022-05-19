@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sqllitejava">
+    package="com.example.EasyLearn">
 
     <application
         android:allowBackup="true"
@@ -10,16 +10,31 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SqlLiteJava">
         <activity
-            android:name=".WordInfo"
+            android:name="com.example.EasyLearn.Words.WordInfo"
             android:exported="false" />
         <activity
-            android:name=".WordsList"
+            android:name="com.example.EasyLearn.Words.WordList"
             android:exported="false" />
         <activity
-            android:name=".WordsAppend"
+            android:name="com.example.EasyLearn.Modules.ModulesList"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.EasyLearn.Modules.ModuleAppend"
+            android:exported="false" />
+        <activity
+            android:name="com.example.EasyLearn.Words.WordAppend"
+            android:exported="false" />
+        <activity
+            android:name="com.example.EasyLearn.Learning.StartOfLearning"
+            android:exported="false" />
+        <activity
+            android:name="com.example.EasyLearn.Words.WordEdit"
+            android:exported="false" />
+        <activity
+            android:name="com.example.EasyLearn.Learning.WordsLearning"
+            android:exported="false" />
+        <activity
+            android:name="com.example.EasyLearn.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

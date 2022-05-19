@@ -14,7 +14,7 @@
 
 
         <EditText
-            android:id="@+id/editTextFirstWord"
+            android:id="@+id/editTextFirst"
             android:layout_width="340dp"
             android:layout_height="61dp"
             android:layout_marginTop="28dp"
@@ -31,7 +31,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <EditText
-            android:id="@+id/editTextSecondWord"
+            android:id="@+id/editTextSecond"
             android:layout_width="339dp"
             android:layout_height="69dp"
             android:layout_marginTop="116dp"
